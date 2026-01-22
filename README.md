@@ -1,7 +1,7 @@
-# README.md
+### README.md
 # NeuroStartUp
 
-## !(logo)[NeuroStartUp.png]
+## !(logo)[![alt text](image.png)]
 
 ## *NeuroStartUp* — динамически развивающийся стартап, специализирующийся на поиске с использованием новейших технологий искусственного интеллекта.
 
